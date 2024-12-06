@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+numpy
+Pillow
+pandas
+matplotlib
+IPython
+pyyaml
+seaborn
+ultralytics
+pymongo
